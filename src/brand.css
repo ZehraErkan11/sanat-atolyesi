@@ -1,0 +1,6 @@
+.brand{font-size:0}
+.brand span{font-size:0;background:#f2e4e0}
+.brand span::after{content:'🌷';font-size:18px;line-height:1}
+.brand::after{content:'G🎨gh';font:700 22px 'Playfair Display';color:var(--ink);letter-spacing:-.5px}
+.bot{font-size:0}
+.bot::after{content:'🎨';font-size:15px;line-height:1}

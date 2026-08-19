@@ -1,0 +1,8 @@
+[
+  {"id":1,"title":"Sessiz Bahçe","artist":"Elif Yalçın","price":12500,"size":"70 × 100 cm","canvas":"Tuval / Dikey","technique":"Yağlı boya","materials":"Keten tuval, yağlı boya","image":"https://images.unsplash.com/photo-1549490349-8643362247b5?auto=format&fit=crop&w=900&q=85","color":"#78916f"},
+  {"id":2,"title":"Toprağın Hafızası","artist":"Mert Kaya","price":8900,"size":"60 × 80 cm","canvas":"Tuval / Dikey","technique":"Akrilik","materials":"Akrilik, spatula","image":"https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&w=900&q=85","color":"#ad805a"},
+  {"id":3,"title":"Kıyıdaki Ev","artist":"Ada Erdem","price":6200,"size":"50 × 50 cm","canvas":"Tuval / Kare","technique":"Karışık teknik","materials":"Akrilik, pastel","image":"https://images.unsplash.com/photo-1564399579883-451a5d44ec08?auto=format&fit=crop&w=900&q=85","color":"#e9e3d3"},
+  {"id":4,"title":"Yeşile Doğru","artist":"Selin Arı","price":14700,"size":"90 × 120 cm","canvas":"Tuval / Yatay","technique":"Yağlı boya","materials":"Keten tuval, yağlı boya","image":"https://images.unsplash.com/photo-1577083552431-6e5fd01aa342?auto=format&fit=crop&w=900&q=85","color":"#5e7258"},
+  {"id":5,"title":"Mavi Saat","artist":"Deniz Akın","price":9800,"size":"80 × 80 cm","canvas":"Tuval / Kare","technique":"Akrilik","materials":"Akrilik, vernik","image":"https://images.unsplash.com/photo-1541961017774-22349e4a1262?auto=format&fit=crop&w=900&q=85","color":"#677f94"},
+  {"id":6,"title":"Yaban Çiçekleri","artist":"Zeynep İnce","price":5300,"size":"40 × 60 cm","canvas":"Kağıt / Dikey","technique":"Suluboya","materials":"Pamuklu kağıt, suluboya","image":"https://images.unsplash.com/photo-1547891654-e66ed7ebb968?auto=format&fit=crop&w=900&q=85","color":"#ab704c"}
+]
